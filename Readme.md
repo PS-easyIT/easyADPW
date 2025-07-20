@@ -1,6 +1,6 @@
 # easyADPassword - Active Directory Password Management Tool
 
-![easyADPassword Screenshot](# Screenshots/Screenshot_V0.0.1.jpg)
+![# Screenshots/Screenshot_V0.0.1.jpg](https://github.com/PS-easyIT/easyADPW/blob/main/%23%20Screenshots/Screenshot_V0.0.1.jpg)
 
 ## Short Description
 A comprehensive PowerShell GUI tool for secure Active Directory password management, including password reset, account unlock, and Fine-Grained Password Policy (FGPP) administration with HTML/TXT reporting capabilities.
